@@ -12,9 +12,9 @@ A lightweight Python CLI tool built for dairy co-operatives to calculate daily p
 
 # Project Structure
 
-- kiambu_cal.py    # Main application script
-- price.txt        # Optional configuration file specifying current price per litre
-- README.md        # Project documentation
+- kiambu_cal.py (Main application script)
+- price.txt      (Optional configuration file specifying current price per litre)
+- README.md       (Project documentation)
 
 
 ## Installation & Setup
@@ -25,11 +25,8 @@ Python 3.7+ installed on your system.
 
 ## Steps
 
-Clone or download the script files into your target directory.
-
-Open your terminal or virtual environment (.venv):
-
-cd "D:\AI DATA ANALYST\WEEK 2"
+- Clone or download the script files into your target directory.
+- Open your terminal or virtual environment (.venv):
 
 
 ## Usage
